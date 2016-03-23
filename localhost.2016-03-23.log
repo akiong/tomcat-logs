@@ -1,0 +1,8 @@
+23-Mar-2016 14:44:03.716 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Spring WebApplicationInitializers detected on classpath: [org.springframework.boot.autoconfigure.jersey.JerseyAutoConfiguration@5389c70f, vpcsmsmasking.ApplicationLoader@7a6bd4a1]
+23-Mar-2016 14:45:04.172 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+23-Mar-2016 15:21:38.090 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Spring WebApplicationInitializers detected on classpath: [org.springframework.boot.autoconfigure.jersey.JerseyAutoConfiguration@75c54524, vpcsmsmasking.ApplicationLoader@6a3e7ae3]
+23-Mar-2016 15:22:32.750 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+23-Mar-2016 15:22:55.597 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'grailsDispatcherServlet'
+23-Mar-2016 18:12:27.116 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Spring WebApplicationInitializers detected on classpath: [org.springframework.boot.autoconfigure.jersey.JerseyAutoConfiguration@1c79a8e9, vpcsmsmasking.ApplicationLoader@77406799]
+23-Mar-2016 18:13:30.425 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+23-Mar-2016 18:13:52.527 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'grailsDispatcherServlet'

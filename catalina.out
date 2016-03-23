@@ -1,0 +1,85 @@
+23-Mar-2016 18:12:11.093 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.28
+23-Mar-2016 18:12:11.095 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 7 2015 18:25:21 UTC
+23-Mar-2016 18:12:11.095 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.28.0
+23-Mar-2016 18:12:11.096 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+23-Mar-2016 18:12:11.096 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            3.7.2-042stab092.2
+23-Mar-2016 18:12:11.096 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+23-Mar-2016 18:12:11.096 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/java/jdk1.7.0_79/jre
+23-Mar-2016 18:12:11.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.7.0_79-b15
+23-Mar-2016 18:12:11.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+23-Mar-2016 18:12:11.097 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /root/apache-tomcat-8.0.28
+23-Mar-2016 18:12:11.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /root/apache-tomcat-8.0.28
+23-Mar-2016 18:12:11.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/root/apache-tomcat-8.0.28/conf/logging.properties
+23-Mar-2016 18:12:11.101 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-Mar-2016 18:12:11.101 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms1024m
+23-Mar-2016 18:12:11.101 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx1024m
+23-Mar-2016 18:12:11.101 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:PermSize=1024m
+23-Mar-2016 18:12:11.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:MaxPermSize=1024m
+23-Mar-2016 18:12:11.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms1024m
+23-Mar-2016 18:12:11.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx1024m
+23-Mar-2016 18:12:11.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:PermSize=1024m
+23-Mar-2016 18:12:11.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:MaxPermSize=1024m
+23-Mar-2016 18:12:11.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:-UseGCOverheadLimit
+23-Mar-2016 18:12:11.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:-PrintGCDetails
+23-Mar-2016 18:12:11.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.awt.headless=true
+23-Mar-2016 18:12:11.104 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+23-Mar-2016 18:12:11.104 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=/root/apache-tomcat-8.0.28/endorsed
+23-Mar-2016 18:12:11.104 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/root/apache-tomcat-8.0.28
+23-Mar-2016 18:12:11.104 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/root/apache-tomcat-8.0.28
+23-Mar-2016 18:12:11.105 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/root/apache-tomcat-8.0.28/temp
+23-Mar-2016 18:12:11.105 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+23-Mar-2016 18:12:11.428 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-80"]
+23-Mar-2016 18:12:11.493 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+23-Mar-2016 18:12:11.513 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+23-Mar-2016 18:12:11.516 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+23-Mar-2016 18:12:11.518 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1624 ms
+23-Mar-2016 18:12:11.595 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+23-Mar-2016 18:12:11.596 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.28
+23-Mar-2016 18:12:11.684 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive /root/apache-tomcat-8.0.28/webapps/ROOT.war
+23-Mar-2016 18:12:23.951 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+Configuring Spring Security Core ...
+... finished configuring Spring Security Core
+
+23-Mar-2016 18:13:52.577 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive /root/apache-tomcat-8.0.28/webapps/ROOT.war has finished in 100,892 ms
+23-Mar-2016 18:13:52.587 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-80"]
+23-Mar-2016 18:13:52.593 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+23-Mar-2016 18:13:52.597 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 101078 ms
+test
+role = [ROLE_ADMIN]
+role.size() = 1
+menus = [Back Office, Maintenance, Send, Resend, Report, User, Role, Menu, Menu Structure, Address Book, Template SMS, Template Email, Send SMS, Send Email, Re-Send SMS, Re-Send Email, Report SMS, Report Email]
+parentMenus = [Back Office, Maintenance, Send, Resend, Report]
+parentMenus = [Back Office, Send, Maintenance, Resend, Report]
+template =  001 - Prospect
+params = [SYNCHRONIZER_TOKEN:58cf3e6f-614b-4226-9b79-9c084016a5f8, SYNCHRONIZER_URI:/send/sms, template:1, tipe:1, noHp:6281285839900, d-nama:Bobby, action:sendSMS, controller:send]
+aaaaa = Session Content:
+  org.grails.FLASH_SCOPE = org.grails.web.servlet.GrailsFlashScope@15b876a
+  alias = admin1
+  change = false
+  SPRING_SECURITY_CONTEXT = org.springframework.security.core.context.SecurityContextImpl@eb9bfad8: Authentication: org.springframework.security.authentication.UsernamePasswordAuthenticationToken@eb9bfad8: Principal: grails.plugin.springsecurity.userdetails.GrailsUser@ab3a66c2: Username: admin1; Password: [PROTECTED]; Enabled: true; AccountNonExpired: true; credentialsNonExpired: true; AccountNonLocked: true; Granted Authorities: ROLE_ADMIN; Credentials: [PROTECTED]; Authenticated: true; Details: org.springframework.security.web.authentication.WebAuthenticationDetails@255f8: RemoteIpAddress: 162.158.166.176; SessionId: 9D1BC51C80D041146CF3500E8E5CBD8F; Granted Authorities: ROLE_ADMIN
+  menuList = <li class='dropdown' id='mnImg1'><a class='dropdown-tonggle' data-toggle='dropdown'>Back Office<b class='caret'></b></a><ul class='dropdown-menu'><li><a onclick="window.location='/userDetails/list'" href='/userDetails/list' class='listMChld'>User</a></li><li><a onclick="window.location='/role/list'" href='/role/list' class='listMChld'>Role</a></li><li><a onclick="window.location='/menu/list'" href='/menu/list' class='listMChld'>Menu</a></li><li><a onclick="window.location='/menu/treeDetail'" href='/menu/treeDetail' class='listMChld'>Menu Structure</a></li></ul></li><li class='dropdown' id='mnImg3'><a class='dropdown-tonggle' data-toggle='dropdown'>Send<b class='caret'></b></a><ul class='dropdown-menu'><li><a onclick="window.location='/send/sms'" href='/send/sms' class='listMChld'>Send SMS</a></li><li><a onclick="window.location='/send/email'" href='/send/email' class='listMChld'>Send Email</a></li></ul></li><li class='dropdown' id='mnImg2'><a class='dropdown-tonggle' data-toggle='dropdown'>Maintenance<b class='caret'></b></a><ul class='dropdown-menu'><li><a onclick="window.location='/addressBook'" href='/addressBook' class='listMChld'>Address Book</a></li><li><a onclick="window.location='/templateSMS/list'" href='/templateSMS/list' class='listMChld'>Template SMS</a></li><li><a onclick="window.location='/templateEmail/list'" href='/templateEmail/list' class='listMChld'>Template Email</a></li></ul></li><li class='dropdown' id='mnImg4'><a class='dropdown-tonggle' data-toggle='dropdown'>Resend<b class='caret'></b></a><ul class='dropdown-menu'><li><a onclick="window.location='/send/resms'" href='/send/resms' class='listMChld'>Re-Send SMS</a></li><li><a onclick="window.location='/send/reemail'" href='/send/reemail' class='listMChld'>Re-Send Email</a></li></ul></li><li class='dropdown' id='mnImg5'><a class='dropdown-tonggle' data-toggle='dropdown'>Report<b class='caret'></b></a><ul class='dropdown-menu'><li><a onclick="window.location='/report/sms'" href='/report/sms' class='listMChld'>Report SMS</a></li><li><a onclick="window.location='/report/email'" href='/report/email' class='listMChld'>Report Email</a></li></ul></li>
+  fullName = Admin 1 lastName
+  org.springframework.web.servlet.i18n.SessionLocaleResolver.LOCALE = in
+  SYNCHRONIZER_TOKENS_HOLDER = org.grails.web.servlet.mvc.SynchronizerTokensHolder@201740d8
+  userType = 1
+
+message = [refNo:160323000005, destinationNo:6281285839900, messages:Yth, Bpk/Ibu Bobby
+
+PT. Vast Palaso Cyberindo telah meluncurkan aplikasi  VPC Notification. 
+
+Terima Kasih]
+masuk 62
+destinationNo = 6281285839900
+resp.status == 200
+My response handler got response: HTTP/1.1 200 OK
+Response length: 36
+0-sMjAxNjAzMjMxODE1NTUxODM2ODg5NDE7
+logsms = 160323000005
+refNo = 160323000005
+PentahoReport()............. 
+params = [flag:print, dateFrom:23/03/2016, dateTo:23/03/2016, noHp:, status:, action:reportSMSPrint, controller:report]
+resourceURL =  report_sms.prpt
+reportDefinitionURL =  file:/root/apache-tomcat-8.0.28/webapps/ROOT/WEB-INF/classes/report_sms.prpt
+directly =  org.pentaho.reporting.engine.classic.core.modules.parser.base.ReportResource@3948c389
+parameter = {status=%, dateTo=Wed Mar 23 00:00:00 WIB 2016, usernameprint=admin1, noHp=%, dateFrom=Wed Mar 23 00:00:00 WIB 2016}
